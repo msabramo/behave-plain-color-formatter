@@ -1,7 +1,7 @@
 # behave-plain-color-formatter
 Formatter for [behave][] that uses color but not fancy terminal repositioning
 
-![screenshot](screenshot.png)
+![screenshot](https://raw.githubusercontent.com/msabramo/behave-plain-color-formatter/master/screenshot.png)
 
 ## Installation
 ```bash

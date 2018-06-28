@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='behave-plain-color-formatter',
-    version="0.0.1",
+    version="0.0.2",
     packages=['behave_plain_color_formatter', ],
     url='https://github.com/msabramo/behave-plain-color-formatter',
     license='MIT',
